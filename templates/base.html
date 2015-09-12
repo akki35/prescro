@@ -1,0 +1,46 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<!--
+    This is the 'base' template, never loaded
+-->
+<html>
+<head vocab="http://schema.org/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% block meta_description %}Medications at your fingertips{% endblock meta_description %}">
+  <meta name="keywords" content="{% block meta_keywords %}{% endblock meta_keywords %}">
+
+  <title>
+    {% block title %}Prescro{% endblock title %}
+  </title>
+  
+  <!-- third party -->
+  <link rel="stylesheet" type="text/css" href={% static 'bootstrap/css/bootstrap.css' %}>
+  <link rel="stylesheet" type="text/css" href={% static 'fontawesome/css/font-awesome.css' %}>
+  <link rel="stylesheet" type="text/css" href={% static 'css/pr_main.css' %}>
+  
+  <!-- third party -->
+  <script type="text/javascript" src={% static 'js/jquery-2.1.4.js' %}></script>
+  <script type="text/javascript" src={% static 'bootstrap/js/bootstrap.js' %}></script>
+  <script type="text/javascript" src={% static 'js/autosize.js' %}></script>
+</head>
+
+<body vocab="http://schema.org/"  typeof={% block pg_schema %}Webpage{% endblock pg_schema %}>
+  {% block top %}
+    {% include "parts/top/top_nav.html" %}
+  {% endblock top %}
+  <div id="{% block page_id %}{% endblock page_id %}" class="page">
+    {% block page %}
+    <div class="container-fluid">
+    </div>
+    {% endblock page %}
+    {% block foot %}
+    <footer class="container-fluid">
+    </footer>
+    {% endblock foot %}
+  </div>
+
+  <script type="text/javascript" src={% static 'js/pr_main.js' %}></script>
+</body>
+</html>
