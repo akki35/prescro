@@ -1,77 +1,140 @@
 {% extends "base.html" %}
 
 {% block title %}
-	Prescro | Prescribe Online
+	PrescrO | Prescribe Online
 {% endblock title %}
+
+
+{% block page_id %}cover{% endblock page_id %}
 
 {% block page %}
 	<div class="container">
-		<div class="hex_container">
-			<div class="hex_col">
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-hospital-o"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-stethoscope"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-user-md"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-user-md"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-			</div>
-			<div class="hex_col_alt">
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-user-md"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-				<div class="hexagon">
-					<div class="hex_blank"></div>
-				</div>
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-ambulance"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-			</div>
-			<div class="hex_col">
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-medkit"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-				<div class="hexagon">
-					<div class="hex_left"></div>
-					<div class="hex_mid_1">
-						<i class="fa fa-battery-full"></i>
-					</div>
-					<div class="hex_right"></div>
-				</div>
-			</div>
-		</div>
+		<div class="jumbotron">
+	    <h1>PrescrO</h1>
+	    <p>
+	    	Prescribe Online with the safest and most reliable service. <span class="text-success">Step into the future of Medical Services</span>.
+    	</p>
+	    <form id="main_search" method="GET">
+	    	<div class="form-group">
+	    		<div class="input-group input-group-lg">
+	    			<input class="form-control input-lg" name="q" placeholder="{{q}}">
+	    			<span class="input-group-btn">
+	    				<button class="btn btn-default"><i class="fa fa-search"></i></button>
+	    			</span>
+	    			<span class="input-group-btn">
+	    				<div class="dropdown">
+  							<button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown"><span class="pc_only">Search All</span> <span class="caret"></span></button>
+  							<ul class="dropdown-menu dropdown-menu-right">
+    							<li><a href="#">Everything</a></li>
+    							<li><a href="#">Doctor</a></li>
+				    			<li><a href="#">Hospital</a></li>
+							    <li><a href="#">Blood Bank</a></li>
+							    <li><a href="#">Medicine</a></li>
+							    <li><a href="#">Diagnostic Centre</a></li>
+  							</ul>
+							</div>
+	    			</span>
+	    		</div>
+	    	</div>
+	    </form>
+	    <p class="text-muted">
+	    	For Example:<br>
+	    	Type <span class="text-info">Rambabu</span> to search for <span class="text-info">Dr. Rambabu</span> or <span class="text-info">Rambabu Hospital</span> or <span class="text-info">Rambabu Disease</span> or anything related.
+	    </p>
+	  </div>
+	  <div class="block_grid row">
+	  	<div class="col-sm-5 col-sm-offset-1 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo... inko poojo.. inko khojo... inko khoj k poojo...inko poojo.. inko khojo... inko khoj k poojo...inko poojo.. inko khojo... inko khoj k poojo...inko poojo.. inko khojo... inko khoj k poojo...inko poojo.. inko khojo... inko khoj k poojo...inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-5 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-hospital-o"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Hospitals are dharamsala</h3> isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...isko bharo... yaha jao...
+	  			</div>
+  			</div>
+	  	</div>
+  	</div>
+  	<div class="block_grid row">
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  	<div class="col-sm-4 block">
+	  		<div class="">
+		  		<div class="block_left">
+		  			<i class="fa fa-user-md fa_inline"></i>
+	  			</div>
+		  		<div class="block_right">
+		  			<h3 class="text-info">Doctors are bhagvaan</h3> inko poojo.. inko khojo... inko khoj k poojo...
+	  			</div>
+  			</div>
+	  	</div>
+	  </div>
   </div>
 {% endblock page %}

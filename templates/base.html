@@ -35,11 +35,21 @@
     <div class="container-fluid">
     </div>
     {% endblock page %}
-    {% block foot %}
-    <footer class="container-fluid">
-    </footer>
-    {% endblock foot %}
   </div>
+  {% block foot %}
+  <footer class="">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <p>Kuch Kuch</p>
+        </div>
+        <div class="col-sm-6">
+          <p>Kuch Kuch aur</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  {% endblock foot %}
 
   <script type="text/javascript" src={% static 'js/pr_main.js' %}></script>
 </body>
