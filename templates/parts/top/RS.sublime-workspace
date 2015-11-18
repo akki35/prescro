@@ -1,0 +1,1095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"feed_",
+				"feed_box_body"
+			],
+			[
+				"win",
+				"win_height〔variable〕"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"id_",
+				"id_password2"
+			],
+			[
+				"spa",
+				"span	Tag"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"done",
+				"doneTypingInterval〔variable〕"
+			],
+			[
+				"d_thi",
+				"$d_this〔variable〕"
+			],
+			[
+				"d_t",
+				"$d_this〔variable〕"
+			],
+			[
+				"d_sea",
+				"d_search_now"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"name",
+				"name=aid"
+			],
+			[
+				"show",
+				"show	.show()"
+			],
+			[
+				"chec",
+				"check_img_index〔function〕"
+			],
+			[
+				"img_",
+				"img_index〔variable〕"
+			],
+			[
+				"img",
+				"img_index〔variable〕"
+			],
+			[
+				"img_pre",
+				"img_pre_in"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"chan",
+				"change_image"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"change",
+				"change_image〔function〕"
+			],
+			[
+				"send",
+				"send_img"
+			],
+			[
+				"clos",
+				"closest	.closest()"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"feed",
+				"feed_box"
+			],
+			[
+				"edit",
+				"edit_ans"
+			],
+			[
+				"alert",
+				"alert_tag"
+			],
+			[
+				"ajax_",
+				"ajax_papa"
+			],
+			[
+				"this",
+				"this_val"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"edi",
+				"$editor〔variable〕"
+			],
+			[
+				"all",
+				"allowedy〔variable〕"
+			],
+			[
+				"allo",
+				"allowed〔variable〕"
+			],
+			[
+				"mous",
+				"mouseleave"
+			],
+			[
+				"allow",
+				"allow_pos〔variable〕"
+			],
+			[
+				"part",
+				"part2〔variable〕"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"che",
+				"check〔variable〕"
+			],
+			[
+				"l",
+				"length〔variable〕"
+			],
+			[
+				"check",
+				"checkValidity"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"preva",
+				"pre_value_snd〔variable〕"
+			],
+			[
+				"pre",
+				"pre_value_snd〔variable〕"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"deta",
+				"detail_add"
+			],
+			[
+				"ajax",
+				"ajax_andar"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"ed",
+				"ed_panel"
+			],
+			[
+				"ty",
+				"type=\"button"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"bd",
+				"bd+	border: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"coun",
+				"count_notifications"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"mou",
+				"mouseover"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"res",
+				"result_list"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"a",
+				"articles"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"next",
+				"nextAll"
+			],
+			[
+				"marn",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"new_",
+				"new_nodes"
+			],
+			[
+				"r_",
+				"r_html"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"hide",
+				"hide"
+			],
+			[
+				"in",
+				"interests"
+			],
+			[
+				"user",
+				"userprofile"
+			],
+			[
+				"intere",
+				"interest"
+			],
+			[
+				"col",
+				"col-sm-offset-4"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"cera",
+				"create_new"
+			],
+			[
+				"create",
+				"create_new"
+			],
+			[
+				"body",
+				"body_slide_down"
+			],
+			[
+				"im",
+				"img_pre_in"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"get",
+				"get_votes"
+			],
+			[
+				"com",
+				"comment	comment"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"workp",
+				"workplace_profile"
+			],
+			[
+				"au",
+				"autoresize"
+			],
+			[
+				"lo",
+				"load	load"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"response_",
+				"response_fields"
+			],
+			[
+				"nava",
+				"navbar"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mo",
+				"mouseover"
+			],
+			[
+				"de",
+				"detail_opt"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"profile",
+				"profile_image"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"conte",
+				"content_edit"
+			],
+			[
+				"Work",
+				"WorkplaceForm"
+			],
+			[
+				"work",
+				"workplace"
+			],
+			[
+				"prim",
+				"primary_workplace"
+			],
+			[
+				"err",
+				"errmsg"
+			],
+			[
+				"th",
+				"the_query"
+			],
+			[
+				"pr",
+				"primary_workplace"
+			],
+			[
+				"aj",
+				"aj_search"
+			],
+			[
+				"new",
+				"new_input"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"ta",
+				"taggable_input"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"tagg",
+				"taggable_input"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"the",
+				"the_create"
+			],
+			[
+				"sa",
+				"sabke_papa"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 113.0,
+		"last_filter": "djan",
+		"selected_items":
+		[
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"them",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"git",
+				"Git: Change Branch"
+			],
+			[
+				"githu",
+				"Github: Repository"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"got",
+				"Git: Diff Tool All"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Change Branch"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"subl",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"sub",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"subli",
+				"Sublimerge"
+			],
+			[
+				"",
+				"Sublimerge"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"fil",
+				"FileDiffs: Menu"
+			],
+			[
+				"Snippet:",
+				"Snippet: html"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"form = SetLogoForm()",
+			"print ('olele')",
+			"print (olele)",
+			"from forms import *",
+			"from nodes.forms import *",
+			"b",
+			"b = a + '2'",
+			"a ='aaa'",
+			"alle",
+			"print(\"lele\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Arvind/Documents/GitHub/RS"
+	],
+	"file_history":
+	[
+		"/C/Users/Arvind/Documents/GitHub/RS/rs/settings.py",
+		"/C/Users/Arvind/Documents/GitHub/prescro/templates/cover_hexed.html",
+		"/C/Users/Arvind/Downloads/Compressed/fonts-master/fonts-master/TRIVIA.md",
+		"/C/Users/Arvind/Downloads/Compressed/fonts-master/fonts-master/README.md",
+		"/C/Users/Arvind/Documents/GitHub/prescro/static/fontawesome/css/font-awesome.css",
+		"/C/Users/Arvind/Downloads/Compressed/font-awesome-4.4.0/font-awesome-4.4.0/css/font-awesome.css",
+		"/C/Users/Arvind/Documents/GitHub/prescro/prescro/settings.py",
+		"/C/Users/Arvind/Documents/GitHub/prescro/template/parts/top/top_nav.html",
+		"/C/Users/Arvind/Documents/GitHub/prescro/template/base.html",
+		"/C/Users/Arvind/Documents/GitHub/prescro/template/cover.html",
+		"/C/Program Files (x86)/Python/django-admin.py",
+		"/C/Users/Arvind/Documents/GitHub/prescro/prescro/urls.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/one_answer.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/css/my.css",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/forum/questions.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/my.js",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/forum/quest.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/nodes/node.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/figure_modal.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/base.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/top_navigation.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/nodes/articles.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/nodes/one_article.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/forum/one_question.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/nodes/one_node.html",
+		"/C/Users/Arvind/req.txt",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/home.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/vote_box.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/nodes/write.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/like_box.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/richtext_toolbar.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/cover.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/home/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/industryo/urls.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/about.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/socialaccount/snippets/provider_list_sm.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/login_box.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/signup_box.html",
+		"/C/Users/Arvind/Desktop/size_check.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/people_list.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/workplace_list.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/account/signup.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/account/login.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/userprofile/forms.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/workplace/forms.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/bootstrap/css/bootstrap.css",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/google_analytics.html",
+		"/C/Users/Arvind/AppData/Roaming/Sublime Text 3/Installed Packages/Djaneiro.sublime-package",
+		"/C/Users/Arvind/Documents/GitHub/industryo/forum/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/forum/ask.html",
+		"/C/Users/Arvind/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/jquery-2.1.4.js",
+		"/C/Users/Arvind/Documents/GitHub/industryo/workplace/models.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/workplace_profile/profile.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/nodes/forms.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/workplace/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/bootstrapform/templates/bootstrapform/form.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/bootstrap-wysiwyg-master/bootstrap-wysiwyg.js",
+		"/C/Users/Arvind/Documents/GitHub/industryo/activities/migrations/0001_initial.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/nodes/five_nodes.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/forum/models.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/joint_name.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/bootstrap-wysiwyg-master/index.css",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/comment.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/nodes/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/bootstrap-wysiwyg-master/index.html",
+		"/C/Users/Arvind/AppData/Local/Temp/Temp1_font-awesome-4.3.0.zip/font-awesome-4.3.0/css/font-awesome.css",
+		"/C/Users/Arvind/AppData/Local/Temp/Temp1_font-awesome-4.3.0.zip/font-awesome-4.3.0/less/animated.less",
+		"/C/Users/Arvind/Downloads/bootstrap-wysiwyg-master/bootstrap-wysiwyg-master/README.md",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/bootstrap-wysiwyg-master/external/jquery.hotkeys.js",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/one_interest.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/userprofile/set.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/userprofile/models.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/tags/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/userprofile/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/nodes/models.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/userprofile/profile.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/userprofile/urls.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/industryo/settings.py",
+		"/C/Users/Arvind/Downloads/Game.Dev.Tycoon.v1.5.24/Game.Dev.Tycoon.v1.5.24/package.json",
+		"/C/Users/Arvind/Downloads/Game.Dev.Tycoon.v1.5.24/Game.Dev.Tycoon.v1.5.24/readme.txt",
+		"/C/Users/Arvind/Downloads/Compressed/memcached-win32-1.4.4-14/INSTALL",
+		"/C/memcached/README",
+		"/C/Users/Arvind/Documents/GitHub/industryo/forum/urls.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/tags/list.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/socialaccount/snippets/provider_list.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/userprofile/details.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/userprofile/edit.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/snippets/create_wp_alert.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/css/un-bootstrap.css",
+		"/C/Users/Arvind/Documents/GitHub/industryo/nodes/admin.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/products/__init__.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/activities/__init__.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/navbar.html",
+		"/C/Users/Arvind/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Arvind/Documents/GitHub/industryo/blocks.txt",
+		"/C/Users/Arvind/Documents/GitHub/ilog-git/ilog_dev-master/templates/new/try.html",
+		"/C/Users/Arvind/Downloads/cropit-master/cropit-master/demo/form.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/autosize-master/example/index.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/autosize-master/readme.md",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/autosize.js",
+		"/C/Users/Arvind/Documents/GitHub/ilog-git/ilog_dev-master/ilog_dev/urls.py",
+		"/C/Users/Arvind/Documents/GitHub/ilog-git/ilog_dev-master/templates/myuserprofile/profile.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/autosize-master/dist/autosize.js",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/static/js/tinymce_4.1.10/tinymce/js/tinymce/themes/modern/theme.min.js",
+		"/C/Users/Arvind/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Arvind/Documents/GitHub/industryo/workplaceprofile/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/allauth/account/views.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/workplace/urls.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/forum/forms.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/workplace_required.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/workplace/register.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/workplace/set_segment.html",
+		"/C/Users/Arvind/Documents/GitHub/industryo/allauth/account/forms.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/bootstrapform/templatetags/bootstrap.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/tags/models.py",
+		"/D/Mine/Old Office/New Text Document.txt",
+		"/C/Users/Arvind/Documents/GitHub/industryo/templates/index.html",
+		"/C/Users/Arvind/Documents/GitHub/ilog-git/ilog_dev-master/templates/base.html",
+		"/C/Users/Arvind/Documents/GitHub/ilog-git/ilog_dev-master/ilog_dev/settings.py",
+		"/C/Users/Arvind/Documents/GitHub/industryo/allauth/urls.py",
+		"/C/Users/Arvind/AppData/Local/Temp/Temp1_django-allauth-master.zip/django-allauth-master/example/example/settings.py",
+		"/C/Users/Arvind/Python/django/mysite/mysite/settings.py",
+		"/C/Users/Arvind/Documents/GitHub/ilog-git/ilog_dev-master/templates/new/static/bootstrap/js/bootstrap.js",
+		"/C/Users/Arvind/Downloads/Compressed/bootstrap/bootstrap/css/bootstrap.css",
+		"/C/Users/Arvind/Downloads/Compressed/bootstrap/bootstrap/css/bootstrap-responsive.css",
+		"/C/Users/Arvind/Downloads/Compressed/bootstrap/bootstrap/js/bootstrap.js",
+		"/C/Users/Arvind/Althletics/css/style.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prescro",
+			"pres",
+			"hexagon",
+			"hex_mid_1",
+			"page",
+			"blockname",
+			"glyphicon",
+			"eq",
+			"index",
+			"src",
+			"question",
+			"caret",
+			"-primary",
+			"glyphicon",
+			"broken",
+			"glyphicon",
+			"chevron",
+			"glyphicon",
+			"gly",
+			"glyphicon",
+			"glyph",
+			"glyphicon",
+			"sm",
+			"<a",
+			"<i",
+			"<a>",
+			"li",
+			" pull-left",
+			"col-sm-3",
+			"xs",
+			"</li>",
+			"li",
+			"<li",
+			"h5",
+			"<a",
+			"div",
+			"<div",
+			"h2",
+			"sm",
+			"4",
+			"form-group",
+			"img",
+			"span",
+			"back",
+			"a_green",
+			"label",
+			"form-control",
+			"badge",
+			"top_name",
+			"points",
+			"badge",
+			"green_a",
+			"page",
+			"bootstrap",
+			"ul",
+			"top_nav_",
+			"png",
+			"RequestContext",
+			"submit",
+			"false",
+			"change_image",
+			"];\n",
+			"index",
+			"file",
+			"img",
+			"top",
+			"write_ans",
+			"slice",
+			".close",
+			"search",
+			"name=",
+			"close",
+			"close')",
+			"e')",
+			"fix",
+			"'a'",
+			"tag_short",
+			"'a'",
+			"prev()",
+			"tool",
+			"allowedy",
+			"allowed--",
+			"allowed",
+			"pos+",
+			"true",
+			"i+",
+			"i",
+			"setInterval",
+			"alert_",
+			"data",
+			"title",
+			"doc",
+			"each",
+			"foreach",
+			"default",
+			"detail",
+			"editor",
+			"[",
+			"d_input",
+			"(this)",
+			"autosize",
+			"cover",
+			"account",
+			"img_up",
+			"img_",
+			"img_pro",
+			"self.tags = t",
+			"about",
+			"form",
+			"edit",
+			"user=user",
+			"<input",
+			"$(options.toolbarSelector).find(toolbarBtnSelector).each(function () {",
+			"{f}",
+			"arrow",
+			"interaction_top",
+			"background-color:",
+			"background-color: rgba(55,55,55,0.1);",
+			"node.get_last_comment",
+			".join",
+			"arrow",
+			".feed_box_body",
+			".feed_box_heading",
+			"$papa",
+			"ajax_pa",
+			"ajax_and",
+			"primary",
+			"\"btn\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"interaction",
+			"objects",
+			"#NAME5#",
+			"#NAME4",
+			"Fifa 14"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "RS.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"f",
+				"templates\\myuserprofile\\profile.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
